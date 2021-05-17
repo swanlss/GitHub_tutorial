@@ -1,5 +1,5 @@
 # =============================================================================
 # Author: Maartje Brouwer
 # Date: 210517
-# 2 Day GitHub course, provided by Matthew Humphreys
+# GitHub course, provided by Matthew Humphreys
 # =============================================================================
