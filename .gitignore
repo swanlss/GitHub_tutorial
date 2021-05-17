@@ -1,8 +1,0 @@
-# ignore this file while committing to github
-
-day1_2.txt
-
-Can also ignore an entire direcotory
-Or use wildcards
-*.txt       #all .txt files
-*secret*    #all files containing secret
