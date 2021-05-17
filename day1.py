@@ -50,7 +50,10 @@
 # At repo/.... type .gitignore
 # Click [choose .gitignore:]
 # choose python or something else
-
+# Can also ignore an entire direcotory
+# Or use wildcards
+# *.txt       #all .txt files
+# *secret*    #all files containing secret
 
 
 
