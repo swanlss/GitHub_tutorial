@@ -46,10 +46,22 @@
 # gitignore
 # make a .gitignore file
 # write down the files in that file that you want to ignore
+
 # on github.com go the the repo. click [add file], [create new file]
 # At repo/.... type .gitignore
 # Click [choose .gitignore:]
 # choose python or something else
+# Can also ignore an entire direcotory
+# Or use wildcards
+# *.txt       #all .txt files
+# *secret*    #all files containing secret
+
+
+# branches
+# in the desktop app, click [current branch] and make a new branch
+# Commit and push changes to the new branch
+# Change between branches to get the difference in files
+# To merge the branches, make a pull request.
 
 
 
