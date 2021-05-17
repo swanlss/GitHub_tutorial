@@ -46,6 +46,11 @@
 # gitignore
 # make a .gitignore file
 # write down the files in that file that you want to ignore
+# on github.com go the the repo. click [add file], [create new file]
+# At repo/.... type .gitignore
+# Click [choose .gitignore:]
+# choose python or something else
+
 
 
 
