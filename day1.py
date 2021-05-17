@@ -6,7 +6,6 @@
 
 # Git = command line tool to track changes.
 # Github desktop does the same thing, but click based, user friendly.
-
 # Github is the cloud where everything is stored
 
 
@@ -16,6 +15,7 @@
 
 # Make changes
 # Commit to main = local repo
+# Push to github
 
 # Revert a change:
 # Go to history, right click the change you want to revert and 
