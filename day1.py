@@ -43,9 +43,9 @@
 # GNU = Scripts that use your code need to be open source
 # Commit new file
 
-
-
-# 
+# gitignore
+# make a .gitignore file
+# write down the files in that file that you want to ignore
 
 
 
