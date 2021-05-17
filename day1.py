@@ -33,5 +33,20 @@
 # It is always a good idea to add a README.md (markdown file)
 # The readme.md will always show on top in the repo
 # You can use HTML text formatting in the file
+# See the README for examples
+
+# Licences
+# On the main page of the repo, click [add file], [create new file]
+# At repo/.... type licence
+# Click [choose a licence template]
+# MIT = people can use your code to use it and profit from it
+# GNU = Scripts that use your code need to be open source
+# Commit new file
+
+
+
+# 
+
+
 
 
