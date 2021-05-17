@@ -31,5 +31,7 @@
 # Fetch, then Pull
 
 # It is always a good idea to add a README.md (markdown file)
+# The readme.md will always show on top in the repo
+# You can use HTML text formatting in the file
 
 
