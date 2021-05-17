@@ -24,3 +24,12 @@
 # If you make different changes, 
 # you can commit them separately with separate comments
 
+# You can make changes to files on github. This is not recommended.
+
+
+# When changes are made somewhere else... on the desktop app
+# Fetch, then Pull
+
+# It is always a good idea to add a README.md (markdown file)
+
+
