@@ -15,7 +15,7 @@
 
 # Make changes
 # Commit to main = local repo
-# Push to github
+# Push to origin rempte (github)
 
 # Revert a change:
 # Go to history, right click the change you want to revert and 
