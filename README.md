@@ -13,7 +13,6 @@ import numpy as np
 x = np.mean([43, 1, 64])
 ```
 
-[link]
-(https://github.com/)
+[link](https://github.com/)
 
 
