@@ -46,6 +46,8 @@
 # gitignore
 # make a .gitignore file
 # write down the files in that file that you want to ignore
+# This only works for new files, that are not tracked yet. So for older files
+# First remove them, push, and add as new file.
 
 # on github.com go the the repo. click [add file], [create new file]
 # At repo/.... type .gitignore
