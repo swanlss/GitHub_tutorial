@@ -56,13 +56,15 @@
 # *.txt       #all .txt files
 # *secret*    #all files containing secret
 
-
 # branches
 # in the desktop app, click [current branch] and make a new branch
 # Commit and push changes to the new branch
 # Change between branches to get the difference in files
 # To merge the branches, make a pull request.
-
+# On the website, resolve any conflicts
+# Merge pull request
+# Confirm merge
+# 
 
 
 
